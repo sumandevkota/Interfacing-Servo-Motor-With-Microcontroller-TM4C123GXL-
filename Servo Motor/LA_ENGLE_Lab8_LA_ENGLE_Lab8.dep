@@ -1,0 +1,9 @@
+Dependencies for Project 'LA_ENGLE_Lab8', Target 'LA_ENGLE_Lab8': (DO NOT MODIFY !)
+F (.\main.c)(0x62335F5D)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (SysTick.h)(0x51EA1730)
+I (..\tm4c123gh6pm.h)(0x51D4B702)
+I (PLL.h)(0x51EA1730)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C87C24)
+F (.\startup.s)(0x5701EFE8)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\SysTick.c)(0x62204ED0)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\systick.o --omf_browse .\systick.crf --depend .\systick.d)
+F (.\texas.o)(0x5699BE18)()
